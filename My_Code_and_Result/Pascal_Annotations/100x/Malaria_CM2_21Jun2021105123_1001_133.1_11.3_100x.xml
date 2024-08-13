@@ -1,0 +1,38 @@
+<annotation>
+	<folder>100x</folder>
+	<filename>Malaria_CM2_21Jun2021105123_1001_133.1_11.3_100x.png</filename>
+	<path>D:\FYP\Monday Due\low_cost\CM2\Images\100x\Malaria_CM2_21Jun2021105123_1001_133.1_11.3_100x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>401</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gametocyte</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>131</ymin>
+			<xmax>213</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>58</ymin>
+			<xmax>134</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

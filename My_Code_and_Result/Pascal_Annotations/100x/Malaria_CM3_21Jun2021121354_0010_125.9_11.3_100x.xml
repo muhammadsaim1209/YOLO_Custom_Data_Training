@@ -1,0 +1,38 @@
+<annotation>
+	<folder>100x</folder>
+	<filename>Malaria_CM3_21Jun2021121354_0010_125.9_11.3_100x.png</filename>
+	<path>D:\FYP\Monday Due\low_cost\CM3\Images\100x\Malaria_CM3_21Jun2021121354_0010_125.9_11.3_100x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>397</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trophozoite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>134</ymin>
+			<xmax>103</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trophozoite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>114</ymin>
+			<xmax>262</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100x</folder>
+	<filename>Malaria_CM22_28Aug2021133911_0010_133.0_20.0_100x.png</filename>
+	<path>C:\Users\Dell\Desktop\Zurva\Zurva\low_cost\CM022\Images\100x\Malaria_CM22_28Aug2021133911_0010_133.0_20.0_100x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>419</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trophozoite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>74</ymin>
+			<xmax>205</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

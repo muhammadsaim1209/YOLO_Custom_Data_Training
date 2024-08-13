@@ -1,0 +1,26 @@
+<annotation>
+    <folder>LabelledImages</folder>
+    <filename>Malaria_CM14_27Jul2021132359_0010_124.0_18.5_100x.png</filename>
+    <path>C:\Users\optim\low_cost/CM14\Annotations/100x/Malaria_CM14_27Jul2021132359_0010_124.0_18.5_100x.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>391</width>
+        <height>279</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>trophozoite</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>320</xmin>
+            <ymin>137</ymin>
+            <xmax>346</xmax>
+            <ymax>156</ymax>
+        </bndbox>
+    </object>
+</annotation>

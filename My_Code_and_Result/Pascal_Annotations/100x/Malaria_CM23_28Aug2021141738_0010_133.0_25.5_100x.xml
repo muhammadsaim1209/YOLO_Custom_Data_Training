@@ -1,0 +1,26 @@
+<annotation>
+    <folder>LabelledImages</folder>
+    <filename>Malaria_CM23_28Aug2021141738_0010_133.0_25.5_100x.png</filename>
+    <path>C:\Users\Dell\Desktop\Zurva\Zurva\low_cost/CM023\Annotations/100x/Malaria_CM23_28Aug2021141738_0010_133.0_25.5_100x.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>423</width>
+        <height>253</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>trophozoite</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>230</xmin>
+            <ymin>126</ymin>
+            <xmax>246</xmax>
+            <ymax>160</ymax>
+        </bndbox>
+    </object>
+</annotation>

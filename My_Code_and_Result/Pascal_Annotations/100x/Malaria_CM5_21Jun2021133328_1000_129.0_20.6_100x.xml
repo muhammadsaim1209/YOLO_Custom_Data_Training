@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100x</folder>
+	<filename>Malaria_CM5_21Jun2021133328_1000_129.0_20.6_100x.png</filename>
+	<path>E:\FYP\low_cost\CM005\Images\100x\Malaria_CM5_21Jun2021133328_1000_129.0_20.6_100x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>401</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gametocyte</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>71</ymin>
+			<xmax>220</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

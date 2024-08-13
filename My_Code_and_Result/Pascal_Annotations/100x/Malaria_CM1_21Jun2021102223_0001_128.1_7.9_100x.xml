@@ -1,0 +1,26 @@
+<annotation>
+    <folder>LabelledImages</folder>
+    <filename>Malaria_CM1_21Jun2021102223_0001_128.1_7.9_100x.png</filename>
+    <path>/media/kk/My Drive/Datasets/MedicalCell_Datasets/Olympus_ChinaDataset/Olympus/Orignal/CM001/Annotations/100x/Malaria_CM1_21Jun2021102223_0001_128.1_7.9_100x.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>409</width>
+        <height>283</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ring</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>335</xmin>
+            <ymin>120</ymin>
+            <xmax>357</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>
+</annotation>

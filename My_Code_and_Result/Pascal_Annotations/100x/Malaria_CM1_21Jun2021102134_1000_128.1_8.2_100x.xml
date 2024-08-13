@@ -1,0 +1,26 @@
+<annotation>
+    <folder>LabelledImages</folder>
+    <filename>Malaria_CM1_21Jun2021102134_1000_128.1_8.2_100x.png</filename>
+    <path>/media/kk/My Drive/Datasets/MedicalCell_Datasets/Olympus_ChinaDataset/Olympus/Orignal/CM001/Annotations/100x/Malaria_CM1_21Jun2021102134_1000_128.1_8.2_100x.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>417</width>
+        <height>293</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>gametocyte</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>91</xmin>
+            <ymin>118</ymin>
+            <xmax>117</xmax>
+            <ymax>138</ymax>
+        </bndbox>
+    </object>
+</annotation>

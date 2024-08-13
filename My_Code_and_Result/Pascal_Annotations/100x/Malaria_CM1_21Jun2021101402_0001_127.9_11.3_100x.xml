@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100x</folder>
+	<filename>Malaria_CM1_21Jun2021101402_0001_127.9_11.3_100x.png</filename>
+	<path>D:\FYP\Monday Due\CM001\Images\100x\Malaria_CM1_21Jun2021101402_0001_127.9_11.3_100x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>395</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>121</ymin>
+			<xmax>255</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>
